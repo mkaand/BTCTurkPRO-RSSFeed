@@ -8,6 +8,8 @@ You can use this RSS feed with www.IFTTT.com and easily integrate to your BTCTur
 RSS -> Telegram or RSS->Email
 Once your order completed you will get notification.
 
+![Telegram](https://github.com/mkaand/BTCTurkPRO-RSSFeed/blob/master/telegram.png?raw=true)
+
 DEMO PAGE: https://robostopia.com/btcturk/
 
 ## BTCTurk | PRO Order/Withdraw/Deposit Notification RSS Feed v2.0
