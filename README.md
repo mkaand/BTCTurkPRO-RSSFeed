@@ -4,8 +4,8 @@ This script uses [@onurgozupek]( https://github.com/onurgozupek )'s API library.
 
 ## BTCTurk | PRO Order/Withdraw/Deposit Notification RSS Feed v2.0
 
-**Credits:** 
-CryptoYakari https://twitter.com/CryptoYakari
+**Credits:** <br>
+CryptoYakari https://twitter.com/CryptoYakari<br>
 Onur Gözüpek https://github.com/onurgozupek
 
 Requirements
