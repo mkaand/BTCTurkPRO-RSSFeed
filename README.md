@@ -18,9 +18,9 @@ Onur Gözüpek https://github.com/onurgozupek
 
 Requirements
 -------------
-PHP Host
-BTCTurk PRO Account
-IFTTT.COM Account (Optional)
+PHP Host<br>
+BTCTurk PRO Account<br>
+IFTTT.COM Account (Optional)<br>
 
 Usage 
 -------------
