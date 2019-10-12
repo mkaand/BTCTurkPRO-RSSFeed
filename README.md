@@ -14,7 +14,7 @@ PHP Host + BTCTurk PRO Account
 Demo Page: https://robostopia.com/btcturk/
 
 This script generates an RSS Feed for your latest BTCTurk Order/Withdraw/Deposit
-You can use this RSS feed with IFTTT.com and easily integrate to your BTCTurk PRO account. Like:
+You can use this RSS feed with www.IFTTT.com and easily integrate to your BTCTurk PRO account. Like:
 
 RSS -> Telegram or RSS->Email
 Once your order completed you will get notification.
