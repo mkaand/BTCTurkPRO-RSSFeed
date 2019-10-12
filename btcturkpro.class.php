@@ -251,4 +251,18 @@ class BtcTurkPRO
         if ($endDate) { $params['endDate'] = $endDate; }
         return $this->get_call('v1/users/transactions/'.$trntype, $params, 1, 0);
     }
+	public function UserTransfersCrypto($type = array('deposit', 'withdrawal'), $symbol = array("btc","eth","xrp","ltc","usdt","xlm","neo","try"), $startDate = NULL, $endDate = NULL)
+    {
+        $params = array('type' => $type, 'symbol' => $symbol);
+        if ($startDate) { $params['startDate'] = $startDate; }
+        if ($endDate) { $params['endDate'] = $endDate; }
+        return $this->get_call('v1/users/transactions/crypto/', $params, 1, 0);
+    }
+	public function UserTransfersFiat($type = array('deposit', 'withdrawal'), $symbol = array("btc","eth","xrp","ltc","usdt","xlm","neo","try"), $startDate = NULL, $endDate = NULL)
+    {
+        $params = array('type' => $type, 'symbol' => $symbol);
+        if ($startDate) { $params['startDate'] = $startDate; }
+        if ($endDate) { $params['endDate'] = $endDate; }
+        return $this->get_call('v1/users/transactions/fiat/', $params, 1, 0);
+    }
 }
