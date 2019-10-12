@@ -29,5 +29,3 @@ Donations/Support
 -----
 CrptoYakari Donation Address: 
 * BTC: 1GEK7JKqDgvcUGCMaGCfs6TvqRLnU3MVc5
-
-Donations/Support
