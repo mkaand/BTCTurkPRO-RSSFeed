@@ -1,11 +1,12 @@
 # BTCTurk | PRO Order/Withdraw/Deposit<br>Notification RSS Feed v2.0
 
-This script uses [@onurgozupek]( https://github.com/onurgozupek )'s API library. You need PHP host & BTCTurkPRO account in order to use this script.
+This script uses [@onurgozupek]( https://github.com/onurgozupek )'s API library. You need PHP host & BTCTurkPRO account in order to use this script.<br>
 
-BTCTurkPRO Order/Withdraw/Deposit Notification RSS Feed v2.0
+## BTCTurkPRO Order/Withdraw/Deposit Notification RSS Feed v2.0
 
-Credits: 
+**Credits:** 
 CryptoYakari https://twitter.com/CryptoYakari
+Onur Gözipek https://github.com/onurgozupek
 
 Requirements
 -------------
